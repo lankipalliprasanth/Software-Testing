@@ -1,4 +1,4 @@
- Write a program to arrange the letters of the word alphabetically in reverse order
+Write a program to arrange the letters of the word alphabetically in reverse order
 Sample Input:
 Enter the word: MOSQUE
 Sample Output:
