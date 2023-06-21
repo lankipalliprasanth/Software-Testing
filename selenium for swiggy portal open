@@ -1,0 +1,25 @@
+Write a Selinium program Automate login in Swiggy Portal with the help of
+
+Chrome browser.
+
+package Proj:
+import org.openqa.selenium.By:
+import org.openqa.selenium. WebDriver; import org.openqa.selenium. WebElement,
+import org.openqa.selenium.chrome.ChromeDriver,
+
+public class loginpage {
+public static void main(String s[]) {
+WebDriver driver-new ChromeDriver();
+System.setProperty("webdriver.chrome.driver", "C://chromedriver.exe");
+driver.get("https://www.swiggy.com/?utm_source Google-
+Sok&utm medium CPC&utm campaign perf food nu google search sok narm brand v
+1 v2 march23 brand_em&gclid CjwKCAjwjYKjBhB5EiwAiFdSfrdLVA-
+UKWyVK60DxCwxHI Kmh310fjK9ya_mDXHMfbN5 Waws1oQUvhoCNFSQAVD_BwE");
+
+WebElement textBox-driver.findElement(By.className("x4bK8");
+
+driver.manage(),window().maximize();
+
+textBox.click();
+}
+}
